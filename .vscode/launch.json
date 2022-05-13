@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProvaApplication<prova>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.prova1.prova.ProvaApplication",
+            "projectName": "prova",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
